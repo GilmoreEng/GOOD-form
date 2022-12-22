@@ -1,6 +1,8 @@
 # 1-1-GOOD-form
 
-
+|Table|Header|
+|---|---|
+|1st row| 2nd colomn|
 
 ## Getting started
 
