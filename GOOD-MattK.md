@@ -4,9 +4,10 @@ Date: 12-22-2022
 ## Goals/Projects/Items of Interest 
 |Topic:|Update|
 |:---:|:---:|
-|Ease-of-Use for HPC| 2nd colomn|
+|Ease-of-Use for HPC| Updating Documentation|
 |VDI for HPC| notes
-|Class support for 
+|Class support for Jupyter Data Management CSCI 498A UG| Meeting with Mike, Nick, and prof.
+|Time-off review| Back on Jan 3 and 4, out 5-10.
 
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
@@ -14,8 +15,7 @@ Date: 12-22-2022
 |End of year: set meetings for next year|
 
 ## Opportunities 
-Discuss new opportunities for further learning, development, and growth.
-||
+|Discuss new opportunities for further learning, development, and growth.|
 |---|
 ||
 
