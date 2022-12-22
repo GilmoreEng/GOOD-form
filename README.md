@@ -1,3 +1,4 @@
+![ITS Mines Logo](./ITS-Mines-Logo.png)
 # 1:1 GOOD Meeting Form 
 Start a line with # for First Header formating add more for each following headers styles.
 
@@ -5,7 +6,7 @@ For Tables use pipe | to separtate columns. Headers first followed by | --- | mi
 
 |Table|Header|
 |---|---|
-|1st row| 2nd colomn|
+|1st row| 2nd column|
 
 
 ## Add your files
