@@ -1,6 +1,6 @@
 # Progress Notes 
 Name: Richard Gilmore & Matthew Ketterling
-Date: 1-4-2022
+Date: 1-10-2022
 ## Goals/Projects/Items of Interest 
 |Topic|Update|
 |:---:|:---:|
@@ -16,3 +16,5 @@ Date: 1-4-2022
 |Macos recovery| fslueth file block reader | Rebuild blocks for containers and volumes 
 |Ubuntu rebuild | Totally blown | reinstall latest
 |Time-off review| Need to calculate vacation time for Cruise and Summer trips
+|google account migration| see email for instructions|
+
