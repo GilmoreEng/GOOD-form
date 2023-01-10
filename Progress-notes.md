@@ -15,6 +15,6 @@ Date: 1-10-2022
 |:---:|:---:|:---:|
 |Macos recovery| fslueth file block reader | Rebuild blocks for containers and volumes 
 |Ubuntu rebuild | Totally blown | reinstall latest
-|Time-off review| Need to calculate vacation time for Cruise and Summer trips
+|Time-off review| Need to calculate vacation time for Cruise and Summer trips | 13.33hr/mn * 7mn + 65.72 - 24 (Cruise in March)= 135 hr available in August
 |google account migration| see email for instructions|
 
