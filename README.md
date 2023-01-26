@@ -4,6 +4,10 @@ Start a line with # for First Header formating add more for each following heade
 
 For Tables use pipe | to separtate columns. Headers first followed by | --- | minium three dashes.
 
+|Table left justified|
+|:---|
+|left text|
+
 |Table|Header|
 |---|---|
 |1st row| 2nd column|
