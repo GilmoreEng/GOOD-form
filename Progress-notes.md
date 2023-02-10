@@ -8,6 +8,7 @@ Date: 2-10-2023
 |AWS VDI for vis | Need to meet with Mike to set up subnet VPC
 |JupyterHub setup for class for Gabe Fierro CSCI 303 TDX# 19343453 | Database management using Datasette homebrew package and sqlite-utils conda. Tutorials notes see Evernote.
 | Gabe class| https://datasette.io server running at http://138.67.239.70/bldg  for student practice sql commands. Office hours: Office hours: •Tu 12-1pm •Fri 11am-12pm
+|ANSYS 2023 R1 install | Download at Mines to Vault and Wendian. Copy through out.
 ## Personal work tasks
 |Topic:|Update| NEXT STEPS
 |:---:|:---:|:---:|
