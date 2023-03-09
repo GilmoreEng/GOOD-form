@@ -8,11 +8,11 @@ Date: 1-19-2023
 |VDI for HPC| Need to meet with Mike about VPC subnet connector to License Server. Limited time to focus on development of this new service.
 |Class support for Jupyter Data Management CSCI 498A UG| Need to work through class updates. Still behind.
 |Business model deployment| Prototype jupyter notebook script to plot data of users in Account group or user only. Still trying to focus enough time to debug Date-Range-Slider code, then graphing next.
-|HR eval. | Working in progress near completions with Goals, next Leadership, Management - Admin, and Communicatoins.
+|HR eval. | Need to fininsh notes on Improvements discussed during meeting. Print and Sign and return.
 |Job discription Question? Do I enjoy the work I do?| Bring in projects to the CIARC Team to work on and often reliant on Mike and Nick to implement. 
-|AWS for HPC |
-|TDX services|
-|Meeting with Mehmet and Neil to discuss NSF grant proposal| HPC related sustainability life cycle. https://www.nsf.gov/pubs/2023/nsf23532/nsf23532.pdf and a paper on the topic: https://ieeexplore.ieee.org/document/9355319/references#references |
+|AWS and POD for HPC | Meeting with David Griffth to disucss HPC AWS Management and current state of Mines Cloud infrastructure.
+|TDX services| Rework notes into Visio in MS Teams: https://mines0.sharepoint.com/:u:/r/sites/GRP-ITS-CIARC/Shared%20Documents/General/TDX/TDX%20changes%202023/TDX%20Overhaul%20March%202023.vsdx?d=w4df549da4be44c29916dce4e605ae7bc&csf=1&web=1&e=wChRAF
+|Meeting with Mehmet and Neil to discuss NSF grant proposal| Kira will sign a cooperation agreement for grant to share available HPC meterics with the project. HPC related sustainability life cycle. https://www.nsf.gov/pubs/2023/nsf23532/nsf23532.pdf and a paper on the topic: https://ieeexplore.ieee.org/document/9355319/references#references |
 
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
