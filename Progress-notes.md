@@ -7,7 +7,7 @@ Date: 2-10-2023
 |Ease-of-Use for HPC| IDEAS: Sets/Projects File locations, Dashboard Account usage.
 |GPU contract question for CC| Work with Nick and draft an email.
 |OOD script initializer| Research coding stratagies. This WEEK.-- Also VMD OVITO need looking into.
-|Jupyter Acounting of buiness model | Date select accceptable. Mutli users association with different accounts breaks retrival. DONE. Still, need to move pass this into graphing something. DONE. Need to add error handling. How can this be converted into a OOD app?
+|Jupyter Acounting of buiness model | Date select accceptable. Mutli users association with different accounts breaks retrival. DONE. Still, need to move pass this into graphing something. DONE. Need to add error handling. Shared file for each month that is parsed in dataframe. How can this be converted into a OOD app?
 |AWS VDI for vis | NEED to meet with Mike to set up subnet VPC ----
 | Gabe class| Need to continue through classwork asignments
 |Penguin meeting POD| Meeting show case Thursday. I'm out of town.
