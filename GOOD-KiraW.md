@@ -1,18 +1,18 @@
 # GOOD 1:1 Meeting 
 Name: Richard Gilmore & Matthew Ketterling
-Date: 1-19-2023
+Date: 3-15-2023
 ## Goals/Projects/Items of Interest 
 |Topic:|Update|
 |:---:|:---:|
+|Campus Champions | CC. email sent. ??INTERNET2, NET+ relationship for Mines. Ask Matt K. 
+|Tickets| COMSOL - PI will buy license. ANSYS Chemkin - Find test case to import chemkin library and UDF addon Fuelcell compatibility. PMDB file build on Windows machine ready to move to linux setup for debugging.
 |Ease-of-Use for HPC| Initiliazer configuation script coding|
 |VDI for HPC| Need to meet with Mike about VPC subnet connector to License Server. Limited time to focus on development of this new service.
 |Class support for Jupyter Data Management CSCI 498A UG| Need to work through class updates. Still behind.
-|Business model deployment| Prototype jupyter notebook script to plot data of users in Account group or user only. Still trying to focus enough time to debug Date-Range-Slider code, then graphing next.
-|HR eval. | Need to fininsh notes on Improvements discussed during meeting. Print and Sign and return.
-|Job discription Question? Do I enjoy the work I do?| Bring in projects to the CIARC Team to work on and often reliant on Mike and Nick to implement. 
-|AWS and POD for HPC | Meeting with David Griffth to disucss HPC AWS Management and current state of Mines Cloud infrastructure.
-|TDX services| Rework notes into Visio in MS Teams: https://mines0.sharepoint.com/:u:/r/sites/GRP-ITS-CIARC/Shared%20Documents/General/TDX/TDX%20changes%202023/TDX%20Overhaul%20March%202023.vsdx?d=w4df549da4be44c29916dce4e605ae7bc&csf=1&web=1&e=wChRAF
-|Meeting with Mehmet and Neil to discuss NSF grant proposal| Kira will sign a cooperation agreement for grant to share available HPC meterics with the project. HPC related sustainability life cycle. https://www.nsf.gov/pubs/2023/nsf23532/nsf23532.pdf and a paper on the topic: https://ieeexplore.ieee.org/document/9355319/references#references |
+|Business model deployment| Basic bar chart of account costs. What does it take to convert to Widget? Better labels. Rebuild using JOB database for finer control over CPU/BILLING/PARTITION calculations. OOD Dashboad app dev in progress of debugging compiler code.
+|HR eval. | Do I need to rework this now that a NEW! wording is available for ITS? DONE
+|AWS and POD for HPC | Cloud serivce access, cost model, service model?
+|TDX services| Waiting for Dr. Nick Durr. More to update- Add back "Research" to button.
 
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
@@ -25,7 +25,7 @@ Date: 1-19-2023
 ## Opportunities 
 |Discuss new opportunities for further learning, development, and growth.|
 |---|
-
+|NVIDIA GTC 2023 SPRING| March 20-23. Reschedule 1-1 for next week to another time. Friday? I'll pass on any relavant material. LIVE session sign up this week! Vender opportunities? Schedule set for next week.
 
 ## Decisions
 Agreed upon actions to be taken.
