@@ -4,6 +4,9 @@ Date: 3-15-2023
 ## Goals/Projects/Items of Interest 
 |Topic:|Update|
 |:---:|:---:|
+|OKTA logins | Seem to be going well. 
+| Vendor update | https://mines0.sharepoint.com/:x:/r/sites/GRP-ITS-CIARC/Shared%20Documents/General/HPCFiles/Financial%20Analysis%202023/HPC%20Analysis%20MASTER%20.xlsx?d=w646ff1b781014353bd0baf32f629847d&csf=1&web=1 Break down on sheet.
+| Work communication to ???| Partition users, Non-gpu pool, Were GPU users, more info pending
 |Campus Champions | CC. email sent. ??INTERNET2, NET+ relationship for Mines. Ask Matt K. 
 |Tickets| COMSOL - PI will buy license. ANSYS Chemkin - Find test case to import chemkin library and UDF addon Fuelcell compatibility. PMDB file build on Windows machine ready to move to linux setup for debugging.
 |Ease-of-Use for HPC| Initiliazer configuation script coding|
