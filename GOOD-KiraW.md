@@ -11,7 +11,7 @@ Date: 3-15-2023
 |VDI for HPC| Need to meet with Mike about VPC subnet connector to License Server. Limited time to focus on development of this new service.
 |Class support for Jupyter Data Management CSCI 498A UG| Need to work through class updates. Still behind. No Progress!!
 |Business model deployment| Basic bar chart of account costs. What does it take to convert to Widget? Better labels. Rebuild using JOB database for finer control over CPU/BILLING/PARTITION calculations. OOD Dashboad app dev in progress of debugging compiler code. Need Discussion with Mike on Job data, tracking, billing notes adding after the job, what's important for a billing data base for users and us to examine?
-|AWS and POD for HPC | Need to looking lambda, and find SC22 Cloud provider notes. CHECK OUT [Lancium compute for HPC](https://lancium.com/solutions/#solutions-lancium-compute)
+|AWS and POD for HPC | Need to looking lambda, and find SC22 Cloud provider notes. CHECK OUT [Lancium compute for HPC](https://lancium.com/solutions/#solutions-lancium-compute) ALSO: [CloudyCluster](https://OmniBond.com) products OrangeFS CloudyCluster, TrafficVision - Amy Cannon amy@omnibond.com 8648887451 
 |TDX services| Waiting for Dr. Nick Durr. More to update- Add back "Research" to button. Still waiting!
 
 ## Obstacles
