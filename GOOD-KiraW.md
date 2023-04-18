@@ -10,7 +10,7 @@ Date: 4-12-2023
 | Efficency and Cost Control consulting | Solution to projects out of money, but closing in on the end of their project move jobs to AuN, Alpine, or ACCESS project Startup request.
 |Ease-of-Use for HPC| Initiliazer configuation script coding. Dev Dashboard build need to make initializer script specific to partition owers, etc. |
 | Business model deployment | Dev Dashboard: Next steps custom message in announcement for user.
-|AWS and POD for HPC | Need to look into lambda, and find SC22 Cloud provider notes. CHECK OUT.[Lancium compute for HPC](https://lancium.com/solutions/#solutions-lancium-compute) First look done! ALSO: [CloudyCluster](https://OmniBond.com) products OrangeFS CloudyCluster, TrafficVision - Amy Cannon amy@omnibond.com 8648887451 
+|AWS and POD for HPC | Need to look into lambda, and find SC22 Cloud provider notes. CHECK OUT.[Lancium compute for HPC](https://lancium.com/solutions/#solutions-lancium-compute) First look done! ALSO: [CloudyCluster](https://OmniBond.com) products OrangeFS CloudyCluster, TrafficVision - Amy Cannon amy@omnibond.com 8648887451. Also, https://docs.airavata.org/en/master/ for gateway used at Georgia Tech for Fair Share NSF resource sharing.
 
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
