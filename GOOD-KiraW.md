@@ -6,7 +6,7 @@ Date: 4-12-2023
 |:---:|:---:| 
 | Business model charge communcation | How's it going? MS-teams task review
 |Research R Studio Desktop install and then Ondemand App install | Successful building Centos7 native apptainer. Fail through with PAM. Debugging PAM with a new module.
-| Efficency and Cost Control consulting | Any updates?
+| Efficency and Cost Control consulting | Any updates? Mark everhart sam riggle need bugdet support. how to get gap coverage. Sam jobs 45 core-hours 60-times. Tim wilson testing jobs for Sam. State CO project is Sam. NSF grant is Tim. -- Joe Samanack offloading to Apline has more GPUs better for the type of jobs. Also, need gab coverage. Brendan Sprinkle - move to apline until funding comes through.  
 |Ease-of-Use for HPC| Initiliazer configuation script coding. Dev Dashboard build need to make initializer script specific to partition owers, etc. CustomQueue code testing complete. Need to integrate through all interactive apps. |
 | Business model deployment | Dev Dashboard: Next steps custom message in announcement for user. Basic sctipt output into app that user must click on. Need to build code similar to above.
 | Need to update "Booking" schedule for consulting | Copy webpage info to Bookings
