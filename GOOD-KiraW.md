@@ -11,6 +11,8 @@ Date: 4-12-2023
 | Business model deployment | Dev Dashboard: Next steps custom message in announcement for user. Basic sctipt output into app that user must click on. Need to build code similar to above. 
 | Need to update "Booking" schedule for consulting | Copy webpage info to Bookings!
 |COMSOL OOD interactive app build| need to clone OSC example code
+| Build presentaion Walter Copan | how are we supporting researchers at Mines, Budgets guidance? 
+| Gap funding KB article | 
 
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
