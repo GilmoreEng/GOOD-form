@@ -1,15 +1,16 @@
 # GOOD 1:1 Meeting 
 Name: Richard Gilmore & Kira Wells
-Date: 5-23-2023
+Date: 5-31-2023
 ## Goals/Projects/Items of Interest 
 |Topic:|Update|
 |:---:|:---:| 
-| Business model charge communcation | How's it going? MS-teams task review - Loss HPC groups moving to NSF cloud resources.
-| Research R Studio Desktop install and then Ondemand App install | Installed Conda rstudio-desktop for testing- FAILED. Next try installing rpm desktop for testing. SUCCESS! trying to install R packages needs system level DEVEL packages of many rpms
-|Ease-of-Use for HPC| Update pushed! Need to update desktop code in Ansible script at gitlab and build on ondemand-dev.mines.edu dev server before launching. |
-| Business model deployment | Dev Dashboard: Next steps custom message in announcement for user. Basic sctipt output into app that user must click on. Need to build code similar to above.  Waiting for dashboard DEV testing above to move forward!
-| Need to update "Booking" schedule for consulting | Copy webpage info to Bookings!!!
-|COMSOL OOD interactive app build| need to clone OSC example code!! 
+| Business model charge communcation | How's it going? MS-teams task review. Respond to ticket. 
+|Meeting tomorrow for gap funding pres|
+| Research R Studio Desktop install and then Ondemand App install | rebuild gdal from source fix error with com_err.h in kr8b package build. RStudio-Desktop run as rstudio --no-sandbox works inside OOD servers. Build R packages with more errors. Fix desktop font cursor error and install custom fonts. Rebuild for continuity from notes..... inprogess. Clean up all the attempts. Need to publish working git ood app. update ticket.
+|Ease-of-Use for HPC| Need up patch desktop app on servers to work with new intializer code. ondemand.dev full UPGRADE to v3.0.1 has build in code need to strip changes and move to new form.yml code on all apps. |
+| Business model deployment | Dev Dashboard: on new v3.0.1 dev server testing of getUtilization HTML table rendering.
+| Need to update "Booking" schedule for consulting | Copy webpage info to Bookings!!!!
+|COMSOL OOD interactive app build| need to clone OSC example code!!  Next app to build in OOD - see Rstudio notes could be fun.
 | Build presentaion Walter Copan | how are we supporting researchers at Mines, Budgets guidance? 
 | Gap funding KB article | 
 
@@ -20,7 +21,7 @@ Date: 5-23-2023
 ## Opportunities 
 |Discuss new opportunities for further learning, development, and growth.|
 |---|
-|CS summer field session project meeting | First student meeting Tuesday afternoon. Brushing up presentation and copying relavant material to pass on to students. Writing Scope and push goals for project completion. Background and research supporting goal. Gathering available docuementation. Making student copies. Completed into do Fluent and project in person on may23. Example code of UDF interface programed. Scheme doccumentation is lacking. Team will reach out to ANSYS on forum for more help documentation. Into to full mesh and zoning next week. Need to provide dev mesh for zones and full simulation mesh. Colormap project started up, and RAW data goal introduced.
+|CS summer field session project meeting | Testing code pathways and need to send email to ANSYS contact to get traction on ANSYS help forum question. 2 weeks remain.
 
 
 ## Decisions
