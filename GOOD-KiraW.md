@@ -1,6 +1,6 @@
 # GOOD 1:1 Meeting 
 Name: Richard Gilmore & Kira Wells
-Date: 5-31-2023
+Date: 6-21-2023
 ## Goals/Projects/Items of Interest 
 |Topic:|Update|
 |:---:|:---:| 
