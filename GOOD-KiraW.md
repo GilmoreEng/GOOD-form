@@ -4,6 +4,7 @@ Date: 8-9-2023
 ## Goals/Projects/Items of Interest 
 |Topic:|Update|
 |:---:|:---:| 
+| GOAL SHEET !! |https://mines0-my.sharepoint.com/:x:/g/personal/kirawells_mines_edu/EYMTZGZoXYhKiUu_063RCIIBpqR76FC8LwAADfxgcLrpJw?email=rgilmore%40mines.edu&e=4%3AVQDH5y&at=31
 |Budget Guide| Building use case for ANSYS need to flush out the details from the articles.
 | Ansys software update | APEX - general install in progress - need to install missing packages on ec2 instances to run.
 |Ease-of-Use for HPC| Update code to work with v3 ondemand-dev. |
