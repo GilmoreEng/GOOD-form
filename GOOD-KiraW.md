@@ -4,11 +4,13 @@ Date: 9-21-2023
 ## Goals/Projects/Items of Interest 
 |Topic:|Update|
 |:---:|:---:| 
-| GOAL SHEET !! | <https://mines0-my.sharepoint.com/:x:/g/personal/kirawells_mines_edu/EYMTZGZoXYhKiUu_063RCIIBpqR76FC8LwAADfxgcLrpJw?email=rgilmore%40mines.edu&e=4%3AVQDH5y&at=31> Update on Monday with new goal discriptions, and SMART goal defined/
+| GOAL SHEET !! | <https://mines0-my.sharepoint.com/:x:/g/personal/kirawells_mines_edu/EYMTZGZoXYhKiUu_063RCIIBpqR76FC8LwAADfxgcLrpJw?email=rgilmore%40mines.edu&e=4%3AVQDH5y&at=31> Update Objective short!
 | RTT meeting review | Monday session vs Friday session: same content. 
 | SIF open house | Discussions with Sci-measurement Tech Proffesionals. TEM/STEM, XRD-XXX, TOF-SIMS^5, Needle scan microscopes, clean-room, Business model. Still need to talk with the director.
 | ITLT pres. from Kira | <https://mines0.sharepoint.com/:p:/r/sites/GRP-ITS-CIARC/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B4c0d24a9-de70-40ba-8178-d8f5ba762893%7D&wdOrigin=TEAMS-ELECTRON.teamsSdk.openFilePreview&wdExp=TEAMS-CONTROL&web=1>
 |Student team update | Monday meeting to discuss Database options for SLURM. Mike's, suggestion "DONT'T TOUCH THE DATABASE" interact with the SLURM API and tools for compatibility and maintainability. Real-time is a stretch maybe get this data from the clean up script not the database as pending transaction, then pull source of truth from database.
+|Braun workstations| Clock speed for serie COMSOL code is king. NEED stable workstation for two-months of processing.
+|Greg Jackson | Busy with rehahilitaion a back injury. Direct Yayha to Yifan. Yifan email conversation recap.
 
 ##FY24 GOOD Form Goals Table
 |Topic|Update|
