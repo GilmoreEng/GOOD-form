@@ -5,7 +5,7 @@ Date: 10-19-2023
 |Topic|Update|
 |:---:|:---:|
 |Student team update | Need to check in on the team 
-|Greg Jackson | Working with Yifan to fix UDF compile problem before he starts running agian.
+|Greg Jackson | Yifan to fix UDF compile problem. Update to v23R2 has GUI controls to complile code.
 |Personal Development|"Ruby on Rails" web development: No progress. "Unity Teaching BETA trainning:" Still working through material and debugging. Course content looks good and picks up this week after import into Canvas. Agile videos & Computer Prof: No progress, Cert. Cloud, ML Cert, etc.
 | GOAL SHEET !! | <https://mines0-my.sharepoint.com/:x:/g/personal/kirawells_mines_edu/EYMTZGZoXYhKiUu_063RCIIBpqR76FC8LwAADfxgcLrpJw?email=rgilmore%40mines.edu&e=4%3AVQDH5y&at=31> Update Objective short!
 |Culture/Community|
