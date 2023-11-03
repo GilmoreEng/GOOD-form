@@ -1,15 +1,15 @@
 # GOOD 1:1 Meeting 
 Name: Richard Gilmore & Kira Wells
-Date: 10-5-2023
+Date: 10-19-2023
 ## Goals/Projects/Items of Interest 
 |Topic|Update|
 |:---:|:---:|
 |Student team update | Need to check in on the team 
-|Greg Jackson | Working with Yifan to fix UDF compile problem before he starts running agian.
+|Greg Jackson | Yifan to fix UDF compile problem. Update to v23R2 has GUI controls to complile code.
 |Personal Development|"Ruby on Rails" web development: No progress. "Unity Teaching BETA trainning:" Still working through material and debugging. Course content looks good and picks up this week after import into Canvas. Agile videos & Computer Prof: No progress, Cert. Cloud, ML Cert, etc.
 | GOAL SHEET !! | <https://mines0-my.sharepoint.com/:x:/g/personal/kirawells_mines_edu/EYMTZGZoXYhKiUu_063RCIIBpqR76FC8LwAADfxgcLrpJw?email=rgilmore%40mines.edu&e=4%3AVQDH5y&at=31> Update Objective short!
 |Culture/Community|
-|TDX/Service| OOD probelems with Jupyter and Ansys not loading GCC module. Edit configs.
+|TDX/Service| OOD problems with Jupyter seem to be resolved!?  Ansys not loading GCC module - Done! Updated Git repo.
 |On-prem Cluster| 
 |Cloud/HPC IaaS| APEX - general install in progress - need to install missing packages on ec2 instances to run. AWS - Time to spin up AMI for Windows and have SLURM launch and give connection options for Nice DCV !!
 |Admin Automation|
