@@ -24,7 +24,7 @@ Date: 12-20-2023
 ## Opportunities 
 |Discuss new opportunities for further learning, development, and growth.|
 |---|
-|RCD campus capacity survey. How much is it worth it to know where to focus our efforts to become a better Research Facility?
+|RCD campus capacity survey. How much is it worth it to know where to focus our efforts to become a better Research Facility? https://portal.rcd-nexus.org/helpdocs/quickstart
 
 ## Decisions
 ###Agreed upon actions to be taken.
