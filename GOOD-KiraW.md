@@ -29,6 +29,7 @@ Date: 12-20-2023
 |Purdue meeting with Vis: George Takahashi - Lead Visualization Scientist, Envision Center, RCAC, Purdue IT set for Jan 9 2pm EST.
 |ODA (operational Data Analytics TEAM SC23) Here is a recording of the ODA BoF in case you missed it or want to see/experience it again: https://drive.google.com/file/d/1M234gjN-aPPMllplME2j7lyBF5apJab9/view?usp=drive_link Team information can be found at: https://drive.google.com/drive/folders/1IzdlRMhaSZyDXwZyy5KHOLtVMVC0_s42?usp=sharing
 |COST of OWNERSHIP Cloud vs On-prem: https://cyberinsight.chpc.utah.edu/
+|AWS: $4.097 - $4.506, Azure: $2.401- $3.673, Our(alanc@osc.edu) on-prem TCO: $0.453
 ## Decisions
 ###Agreed upon actions to be taken.
 |Topic|Decision|
