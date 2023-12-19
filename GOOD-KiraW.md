@@ -25,6 +25,7 @@ Date: 12-20-2023
 |Discuss new opportunities for further learning, development, and growth.|
 |---|
 |RCD campus capacity survey. How much is it worth it to know where to focus our efforts to become a better Research Facility? https://portal.rcd-nexus.org/helpdocs/quickstart
+|RMACC paper for HPC Budget Guidance work. Due FULL 9+ February 02, 2024. and SHORT March 15, 2024. https://hpcsymposium.rmacc.org/call-for-papers
 
 ## Decisions
 ###Agreed upon actions to be taken.
