@@ -26,7 +26,7 @@ Date: 12-20-2023
 |---|
 |RCD campus capacity survey. How much is it worth it to know where to focus our efforts to become a better Research Facility? https://portal.rcd-nexus.org/helpdocs/quickstart
 |RMACC paper for HPC Budget Guidance work. Due FULL 9+ February 02, 2024. and SHORT March 15, 2024. https://hpcsymposium.rmacc.org/call-for-papers
-
+|Purdue meeting with Vis: George Takahashi - Lead Visualization Scientist, Envision Center, RCAC, Purdue IT set for Jan 9 2pm EST.
 ## Decisions
 ###Agreed upon actions to be taken.
 |Topic|Decision|
