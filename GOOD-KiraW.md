@@ -6,7 +6,7 @@ Date: 1-2-2024
 |:---:|:---:|
 |Fall Student Project | Github repo: https://github.com/TriHardStudios/F23_CSM_Gilmore. Need to integrate CS OOD Apps into new version. Building a dev env. with gxx gcc ruby python. 
 |Summer Student Project| Build draft presentation of demo Fluent Interface
-|RTT meeting | draft agenda: Communcation of current services, Seeking a grant process
+|RTT meeting | draft agenda: Communcation of current services, Seeking a grant process. How to integrate into new grants? ACCESS portal at mines. What grants can we go after and for what? RCD survey?
 |Personal Development|"Ruby on Rails" web development: No progress. "Unity Teaching BETA trainning:" Moving in to student material. Agile videos & Computer Prof: No progress, Cert. Cloud, ML Cert, etc. On Week 10 of 13 total.
 |Culture/Community|Where do we fit in at the All-hands meeting? Reporting progress on what? budget, costs recovered from Researchers, Cost Clarity App, Student teams supported on HPC (project titles!) 
 |TDX/Service| 
@@ -19,6 +19,7 @@ Date: 1-2-2024
 |Website| Website Docs out of date need to update after workshop. See above. Also update SciVis offering. ~~
 |Danic Roth |- Cloud compare - could be installed on Wendian. Meeting may happen next year.
 | Tech fee proposal for Sci-Vis| Mintry, discuss more in January
+|Research Counsel meeting attended by Kira & Matt|
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
 |---|
