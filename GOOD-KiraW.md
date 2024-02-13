@@ -4,24 +4,22 @@ Date: 1-25-2024
 ## Goals/Projects/Items of Interest 
 |Topic|Update|
 |:---:|:---:|
-|Fall Student Project | Github repo: https://github.com/TriHardStudios/F23_CSM_Gilmore. Need to integrate CS OOD Apps into new version. Building a dev env. with gxx gcc ruby python. Docuemented python env. that was used, and need to pass on to *Mike* for feedback. Draft Budget Request with Abstacted.
-|Summer Student Project| Rough outline complete. Need to port into Powerpoint.
-|RTT meeting | Review notes, and next steps? meet with ORA?
+|see MS Project link for Vis |https://project.microsoft.com/mines0.onmicrosoft.com/en-us?org=orgd5129ef3.crm.dynamics.com/#/taskgrid?projectId=f927826a-874c-47a3-805c-499f57ff24a3
+|TODO| Reorganize below to match above GRID view
+|Fall Student Project | Github repo: https://github.com/TriHardStudios/F23_CSM_Gilmore. Need to integrate CS OOD Apps into new version. Building a dev env. with gxx gcc ruby python. Docuemented python env. that was used, and need to pass on to *Mike* for feedback. Draft Budget Request with Abstacted. Going to need to build a OOD docker v3.0 that works in this student project.
+|Summer Student Project| Rough outline complete. Need to port into Powerpoint. Work in progress.
 | ORA meeting | Discuss website additions. Docuements and FAQ. Rate sheet. https://mines0.sharepoint.com/:w:/r/sites/GRP-ITS-CIARC/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B20b0c5da-729e-48fc-8973-459738c6349c%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1705008682744&web=1
-|Personal Development|"Ruby on Rails" web development: No progress. "Unity Teaching BETA trainning:" Moving in to student material. Agile videos & Computer Prof: No progress, Cert. Cloud, ML Cert, etc. On Week 13 of 13 total. -- need to schedule week for exam
-|Culture/Community| 
+|Personal Development|"Ruby on Rails" web development: No progress. Agile videos & Computer Prof: No progress, Cert. Cloud, ML Cert, etc. "Unity Teaching BETA trainning:" Voucher recieved. Need to find the materials to review, and then schedule exam at Arvada RRCC testing center.
+|Culture/Community| Labriola - Design project for ME? 
 |TDX/Service| 
-|On-prem Cluster|
-|Cloud/HPC IaaS| 
+|On-prem Cluster| Waiting to help Mike repair g009.
+|Cloud/HPC IaaS| Build AWS DVI for Ansys, and Linux container for Mistry.
 |Admin Automation App|
-|Apps| Tech fee proposal for Sci-Vis: Mintry, discuss more in January
-|Upcoming HPC Workshop to include Budget Guidance| Reference Rachel's paper. Funding Guidance example - from grant agencies. Review Workshop notes. Run example on ACCESS resource Illionis NCSA - Delta Machine - GPU and AMD-cpu version.
-|Vis&GUI| Update code to work with v3 ondemand-dev. Look into v3.1 "my projects" which replaces "my templates". Ruby support for 3.0.6 is hard to install to build correct dev. dashboard environment. complete by Apr? See Student project.
-|Website| Website Docs out of date need to update after workshop. See above. Also update SciVis offering. ~~~
-|Danic Roth | - "Cloud Compare" Vis. Software - could be installed on Wendian. Meeting may happen next year. UPS mio - compute nodes, special partition setup?
-|Research Counsel meeting attended by Kira & Matt| Questions about Node retirement on Mio. How to buy the next round of expansions? vs moving to OpEX. https://dl.acm.org/doi/10.1145/3491418.3530767 Also on our MS Team channel, https://mines0.sharepoint.com/:b:/r/sites/GRP-ITS-CIARC/Shared%20Documents/General/Tutorials%20and%20Class%20sessions/PEARC/PEARC%202022/HPC%20Business/2022-PEARC-Jezghani-Revival%20of%20Research%20Computing%20and%20Launch%20of%20New%20Cost%20Model.pdf?csf=1&web=1&e=cJZCws
-|ANSYS 2024 update| OOD - app update and push!
-| VDI | specs for ANSYS
+|Apps| Tech fee proposal for Sci-Vis: Mintry, email follow sent.
+|Vis&GUI| Update code to work with v3 ondemand-dev. Look into v3.1 "my projects" which replaces "my templates". Minimum product--> Rebuild Interactive apps code to work. Can't build testing env for student project without libgcc, etc in a Ruby 3.0 env.
+|Website| Website Docs out of date need to update after workshop. See above. Also update SciVis offering. ~~~~
+|Danic Roth | - Something with Gabe Walton and classwork needing more compute power to process big data.
+|ANSYS 2024 update| OOD - app update and push! Need to reachout to TJ.
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
 |---|
@@ -30,7 +28,6 @@ Date: 1-25-2024
 |Discuss new opportunities for further learning, development, and growth.|
 |---|
 |RMACC paper for HPC Budget Guidance work. Due FULL 9+ February 02, 2024. and SHORT March 15, 2024. https://hpcsymposium.rmacc.org/call-for-papers WORKING TITLE: HPC Scaling on a budget
-|Purdue meeting with Vis: George Takahashi | Review notes and next steps? What can we offer at Mines?
 ## Decisions
 ###Agreed upon actions to be taken.
 |Topic|Decision|
