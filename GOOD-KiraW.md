@@ -17,7 +17,7 @@ Date: 3-8-2024
 |Admin Automation App|
 |Apps|
 |Vis&GUI| Update code to work with v3 ondemand-dev. Look into v3.1 "my projects" which replaces "my templates". Minimum product--> Rebuild Interactive apps code to work. Can't build testing env for student project without libgcc, etc in a Ruby 3.0 env.
-|Website| Website Docs out of date need to update after workshop. See above. Also update SciVis offering. ~~~~~
+|Website| Website Docs out of date need to update after workshop. See above. Also update SciVis offering. ~~~~~ Update wording on Matlab offering.
 |Danic Roth | - Something with Gabe Walton and classwork needing more compute power to process big data. Attend date set.
 |ANSYS 2024 update| OOD - Need to pull changes to servers. Pre-CAB?
 | AWS sagemaker for CS field session | May in week one of CS field session. GO to CU boulder RMACC session and have AWS teach us once to prepare us to personal teach in to CS. Who pays? 
@@ -31,6 +31,8 @@ Date: 3-8-2024
 |RMACC paper for HPC Budget Guidance work. Due FULL 9+ February 02, 2024. and SHORT March 15, 2024. https://hpcsymposium.rmacc.org/call-for-papers WORKING TITLE: HPC Scaling on a budget
 | NIOSH contact - Jennica | CS field session project plugin for visualization.
 | DRAFT OOD tips and tricks | video, or...
+| Larry Irons meeting RCP geophysics | He is the SysAdmin of the Geophysics computing lab with many Linux and Windows desktops and large screens. Each Linux machine is remote accessed by multi-users from off campus for compute work. Windows desktops also have remote background processing running even when a local user is using the primary display. All machines have UPS power backups. He also, handles NAS servers in the hosted area of CTLM with 6 servers for data. Two are mounted on Mio, and an addition login server (making a 7th server) for lanuching jobs to Mio. Geophysics runs a "Data processing" class in the fall, followed by "Interpretation" class in the Spring, and a Summer field session from this lab space. Mio: rcp 12 compute[012-023], and geop 12 compute[000-011], and Wendian: CPU-Skylake, GPU V100 32GB nodes: geop 4 g[001-004]. Lab funding came through BIG OIL not from academic funding. Data movement is drawen through 1Gbit connection to the servers and MUST be replaced back to the servers as part of the agreement. 
+| Thoughts for Geophysics | Can we connect the V100s to make use of there power? Will the software support loading more data? Paraview compatibility with the data sets? Tiled display with the monitors in the room? VR headsets with smaller data sets is what his mostly interested in expanding too. HTC goggles VIVE product might work.
 ## Decisions
 ###Agreed upon actions to be taken.
 |Topic|Decision|
