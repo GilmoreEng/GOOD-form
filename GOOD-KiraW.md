@@ -7,7 +7,7 @@ Date: 4-25-2024
 |see MS Project link for Vis |https://project.microsoft.com/mines0.onmicrosoft.com/en-us?org=orgd5129ef3.crm.dynamics.com/#/taskgrid?projectId=f927826a-874c-47a3-805c-499f57ff24a3
 |TODO| Reorganize below to match above GRID view
 |Fall Student Project | Github repo: https://github.com/TriHardStudios/F23_CSM_Gilmore. Need to integrate CS OOD Apps into new version. Building a dev env. with gxx gcc ruby python. *Mike* installed rh-devtool-11 gcc kit for compiling OOD apps on ondemand-dev. Ready to start working on this!
-|Personal Development|"Ruby on Rails" web development: No progress. Agile videos & Computer Prof: No progress, Cert. Cloud, ML Cert, etc. "Unity Teaching BETA trainning:" Voucher recieved. Need to find the materials to review, and then schedule exam at Arvada RRCC testing center. Signed up for CU Boulder training on SageMaker. 
+|Personal Development|"Ruby on Rails" web development: No progress. Agile videos & Computer Prof: No progress, Cert. Cloud, ML Cert, etc. "Unity Teaching BETA trainning:" Voucher recieved. Need to find the materials to review, and then schedule exam at Arvada RRCC testing center. 
 |Culture/Community|
 |TDX/Service| Mina code for openMPS rebuild into shared project condaENV ADIT group. Yahya meetings Tues, and Wed. Commands journal files build for parameteric runs from Terminal. Running CFD-POST in Linux Desktop to post-process RMACC Alpine results. Apline run for new case solves 7% faster than Wendian with 64 vs 36 cores. 30sec flow-time is all that's needed not 1000sec. 30-sec solves in under a day so Apline is fast enough. Post-processing is the bottleneck. Hopefully, two nodes can be used to process data 732GB of data per run. 
 |On-prem Cluster| 
