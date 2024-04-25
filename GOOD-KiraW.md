@@ -28,7 +28,7 @@ Date: 3-8-2024
 |Gitlat down! can't do merge request!|
 ## Opportunities 
 |Discuss new opportunities for further learning, development, and growth.|
-|---|
+|:---:|:---:|
 |ALEXIS NAVARRE-SITCHLER | Jupyter - vis for class. Meeting May 7. https://geology.mines.edu/project/navarre-sitchler-alexis/ MEETING CANCELLED!
 | DRAFT OOD tips and tricks | video, or... Focus on graduate student right after graduation. Simple video, static presentation, static website. Need to ask Amanda about drafting this.
 |EHS emergency training filming| Apr25 and Apr27. Acting as a prof. in a class, and an extra during filming.
