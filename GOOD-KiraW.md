@@ -27,7 +27,7 @@ Date: 3-8-2024
 |Survived the week with out Mike and Nick out!!!|
 |Gitlat down! can't do merge request!|
 ## Opportunities 
-|Discuss new opportunities for further learning, development, and growth.|
+|Discuss new opportunities for further learning, development, and growth.|Comments|
 |:---:|:---:|
 |ALEXIS NAVARRE-SITCHLER | Jupyter - vis for class. Meeting May 7. https://geology.mines.edu/project/navarre-sitchler-alexis/ MEETING CANCELLED!
 | DRAFT OOD tips and tricks | video, or... Focus on graduate student right after graduation. Simple video, static presentation, static website. Need to ask Amanda about drafting this.
