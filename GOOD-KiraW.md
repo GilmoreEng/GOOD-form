@@ -21,7 +21,7 @@ Date: 6-18-2024
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
 |---|
-|URGENT!| Ansys licensing??? Need to reachout to faculity and procurement. 
+|URGENT!| Ansys licensing??? Need to reachout to faculity and procurement.  Email procurement and ansys.
 |COVID| sick leave? vs vacation leave change.
 ## Opportunities 
 |Discuss new opportunities for further learning, development, and growth.|Comments|
@@ -32,3 +32,5 @@ Date: 6-18-2024
 ###Agreed upon actions to be taken.
 |Topic|Decision|
 |:---:|:---:|
+|Right objective for goals| then make timelines. Needed before SIGGRAPH revision.
+| revisit website | Include offering and clarify.
