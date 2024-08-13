@@ -11,14 +11,14 @@ Date: 8-8-2024
 |Personal Development| "Unity Teaching BETA trainning:" Voucher recieved. Need to find the materials to review, and then schedule exam at Arvada RRCC testing center. AI/ML sagemaker and OLLAMA model learning. Attended SIGGRAPH see evernotes, and more in Opportunitues below
 |Culture/Community|
 |TDX/Service| NORSAR build with container and ssh, fixed gpfs crashing --underlay.
-|On-prem Cluster| Need to fix Ansys Fluent Multi-node on Mio. UCX error! Need to install 2024 R2 on Mio and Wendian!
+|On-prem Cluster| Need to fix Ansys Fluent Multi-node on Mio. UCX error! Need to install 2024 R2 on Mio and Wendian! Tried again, 2024 R2 is a problem on Wendian to now!
 |Cloud/HPC IaaS| 
 |Admin Automation App|
-|Apps| OmniVerse software request ticket. Need to submit with copy of email!!! Need to fill out paperwork. 
+|Apps| OmniVerse software request ticket.  TICKET # 21683373 https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhelpcenter.mines.edu%2FTDNext%2FApps%2F1021%2FTickets%2FTicketDet.aspx%3FTicketID%3D21683373&data=05%7C02%7Crgilmore%40mines.edu%7C7020c9c6961c4f25c17d08dcbbe01ad4%7C997209e009b346239a4d76afa44a675c%7C0%7C0%7C638591818404622765%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=wk7Zc0KskGLAC036Kn9F7dq%2FoYJF%2FCNtV2F6bF%2BWYFE%3D&reserved=0
 |Build CloudCompare|
 |Vis&GUI| Look into v3.1 "my projects" which replaces "my templates". Need to fix JupyterLab OOD environment checks. Deploy MINES OOD apps at gibhub. Install and build http matlab.
 |Website| Website Docs out of date need to update after workshop. See above. Also update SciVis offering. ~~~~~~~ Update wording on Matlab offering. 
-|BIZ model discussion| Help fill out CONDO models survey.
+|BIZ model discussion| Help fill out CONDO models survey. DONE!
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
 |---|
@@ -30,6 +30,8 @@ Date: 8-8-2024
 |ABSTRACT| Need to review materials collected, and follow up on ABSTRACT PolyVerse. Follow up with is there any EDU customers.
 |Vis BOF?| OmniGlobal display follow up Mines library of NASA vis of CO2 video. AI everywhere? Blender Scripting creation of geometry. Cartograhic Vis: ArcGIS into Unity/Unreal, X3DOM mashup with Mike Mcann - Oceanographic Vis.
 |Education AI BOF followup.| Roman Mitch - How tos are the new essay format for grading. Improv BOF to explain AI.
+|NVIDIA DLI| UNI-benefits: https://www.nvidia.com/en-us/training/educator-programs/university-ambassador-program/ Program: https://developer.nvidia.com/dli/cip/programguide 
+COURSES: https://developer.nvidia.com/dli/workshoprequirements AGREEMENT: https://developer.download.nvidia.com/training/cip/secure/docs/dli-certified-instructor-program-membership-agreement-for-nvidia-ambassadors.pdf?vpyqfh-44-_PFkLORpNDNPsbcg_OKzfeO_QNt_U8Kb-T2Cc2LTxt3dM0LTOMWvlHEGjW5hccXD0ytYEJo4LhSnF1p-v35l_Vhox4Js_L8JedzTE-0SKbMRAr0JvgjZAAkiKOHzQCbFgnD-Ipuu4WkDx_8mT4FyLjfklLuO_Vd6mz2kVqgzwe1tkVWtjgUCZSbH6VA0fayEpF2iALLi-9H1ZGGCCUKja2&t=eyJscyI6ImdzZW8iLCJsc2QiOiJodHRwczovL3d3dy5nb29nbGUuY29tLyJ9 REGISTATION FORM: https://developer.nvidia.com/dli/cip/application-amb
 |Cloud Native BOF| DreamWorks and Animal Logic discussion on discord. RenderFarms on-prem or cloud?
 |GRANT: Eng. a Trajectory of Success| Susan Reynolds, reynolds@mines.edu see https://www.seeingstructures.org/
 |Grace-Hopper Quote| 47,000 for a 2U server with one superchip. Need to follow up but probably a waste of time. 
