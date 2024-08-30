@@ -25,6 +25,7 @@ Date: 8-29-2024
 ## Opportunities 
 |Discuss new opportunities for further learning, development, and growth.|Comments|
 |:---:|:---:|
+|Website content| https://cu-boulder-crdds.github.io/LearningMaterials/PythonDataViz.html
 |OmniGlobe CoorsTek| Owner Physics DH: Frederic Sarazin. After discussion email and asked to step in to help. Tue, 8/20 OmniGlobal display follow up Mines library of NASA vis of CO2 video.
 |ABSTRACT| Need to review materials collected, and follow up on ABSTRACT PolyVerse. Follow up with is there any EDU customers. theabstact.co ASK about edu in the USA customers. email sent: Thu, 8/15. Email response, not many EDUs, special for each licensing need. Signup for testing account to try assest creation and modeling.
 |Vis BOF?|  AI everywhere? Blender Scripting creation of geometry. Cartograhic Vis: ArcGIS into Unity/Unreal, X3DOM mashup with Mike Mcann - Oceanographic Vis. Connected with Purdue Prof. from Real-Time Live Tim McGraw:  https://lnkd.in/gxK6Jphq
