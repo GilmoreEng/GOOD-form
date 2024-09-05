@@ -15,7 +15,7 @@ Date: 9-5-2024
 |Cloud/HPC IaaS| 
 |Admin Automation App|
 |Apps| OmniVerse software request ticket. TICKET # 21683373 #21797086 for delpoyment. Test install on Laptop complete.
-|Build CloudCompare| Reviewed build requirements. Uses FLATPAK manager. Need to ask Mike about it.
+|Build CloudCompare| Reviewed build requirements. Uses FLATPAK manager. Need to ask Mike about it. push back to Q2, work Github OOD
 |Vis&GUI| Look into v3.1 "my projects" which replaces "my templates". Need to fix JupyterLab OOD environment checks. Deploy MINES OOD apps at gibhub. Install and build http matlab.
 |Website| Website Docs out of date need to update after workshop. See above. Also update SciVis offering. ~~~~~~~ Update wording on Matlab offering.
 |BIZ model discussion| RTT pushed first meeting
@@ -29,7 +29,7 @@ Date: 9-5-2024
 |OmniGlobe CoorsTek| Owner Physics DH: Frederic Sarazin. After discussion email and asked to step in to help. Tue, 8/20 OmniGlobal display follow up Mines library of NASA vis of CO2 video. Follow next week!
 |ABSTRACT| Need to review materials collected, and follow up on ABSTRACT PolyVerse. Follow up with is there any EDU customers. theabstact.co ASK about edu in the USA customers. email sent: Thu, 8/15. Email response, not many EDUs, special for each licensing need. Signup for testing account to try assest creation and modeling.
 |Vis BOF?|  AI everywhere? Blender Scripting creation of geometry. Cartograhic Vis: ArcGIS into Unity/Unreal, X3DOM mashup with Mike Mcann 
-|NVIDIA DLI| Fully download kits. Cloned into Mio for testing, and build Python environment. Failed due to age of GPU. Trying again on Wendian.
+|NVIDIA DLI| Fully download kits. Cloned into Mio for testing, and build Python environment. Failed due to age of GPU. Trying again on Wendian. Give it shot on building it on DELTA.
 |GRANT: Eng. a Trajectory of Success| Susan Reynolds, reynolds@mines.edu see https://www.seeingstructures.org/ Meeting complete with Dan at CSU. Next up: meet with Shannon and Ethan at Mines. Need to reschedule meeting after computer rebuild.
 ## Decisions
 ###Agreed upon actions to be taken.
