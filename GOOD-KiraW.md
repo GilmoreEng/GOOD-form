@@ -15,7 +15,7 @@ Date: 9-11-2024
 |Build CloudCompare| Reviewed build requirements. Uses FLATPAK manager. Need to ask Mike about it. push back to Q2, work Github OOD.
 |Vis&GUI| Look into v3.1 "my projects" which replaces "my templates". Need to fix JupyterLab OOD environment checks. DONE! Fix python envs in jupyterLab. Deploy MINES OOD apps at gibhub. Test Mark III sys workshop material.
 |Website| Website Docs out of date need to update after workshop. See above. Also update SciVis offering. ~~~~~~~ Update wording on Matlab offering.
-|BIZ model discussion| Condo Model review stats?
+|BIZ model discussion| Condo Model review stats? Help look at stats and graph some.
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
 |---|
@@ -28,7 +28,11 @@ Date: 9-11-2024
 |Vis BOF?|  AI everywhere? Blender Scripting creation of geometry. Cartograhic Vis: ArcGIS into Unity/Unreal, X3DOM mashup with Mike Mcann 
 |NVIDIA DLI| Testiong on Wendian, needed to fix JupyterLab envs first, ready to try again. Give it shot on building it on DELTA.
 |GRANT: Eng. a Trajectory of Success| Susan Reynolds, reynolds@mines.edu see https://www.seeingstructures.org/ Meeting complete with Dan at CSU. Next up: meet with Shannon and Ethan at Mines. Need to reschedule meeting after computer rebuild. Recieved initial model from Susan for test demo.
+|How to use $380 from foundation|
 ## Decisions
 ###Agreed upon actions to be taken.
 |Topic|Decision|
 |:---:|:---:|
+|draft website outline| What's the journey from 2D to 3D data and beyond
+|Workshop with the library| Work with Seth in the library to develop cross-usage content. Meta-data and life cycle.
+|Data Center capacity?|What is the power and cooling? 
