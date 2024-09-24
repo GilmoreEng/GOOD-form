@@ -6,7 +6,7 @@ Date: 9-24-2024
 |:---:|:---:|
 |Expand SciViz offering, workshop, and awareness| New round of invitations.  
 |OmniGlobe CoorsTek| Owner Physics DH: Frederic Sarazin. After discussion email and asked to step in to help. Tue, 8/20 OmniGlobal display follow up Mines library of NASA vis of CO2 video. Fred responded, waiting for meeting invite.
-|Workshop with the library| Work with Seth in the library to develop cross-usage content. Meta-data and life cycle. Set meeting with Seth on Oct 2.
+|Workshop with the library| Work with Seth in the library to develop cross-usage content. Meta-data and life cycle. Set meeting with Seth on Oct 2. Suggests a day on their outlook calendar.
 |Website content| https://cu-boulder-crdds.github.io/LearningMaterials/PythonDataViz.html Need signup.
 |Test Visualization Software Workflows for Collaboration| Omniverse testing on laptop and USD files format testing. DONE! Entitlement received from NVIDIA. DONE! Server is Wendian Rack with SSD. Need code and architecture plan, code deployment, etc. Email sent to request code!
 |Ease-of-use access to HPC at Mines through improvements to Open Ondemand| Fix up JupyterLab Deployment, Document all changes in logs, copy code to github RC repo. Fix python envs in jupyterLab. Deploy MINES OOD apps at gibhub.
@@ -32,6 +32,7 @@ Date: 9-24-2024
 |Vis BOF?|  AI everywhere? Blender Scripting creation of geometry. Cartograhic Vis: ArcGIS into Unity/Unreal, X3DOM mashup with Mike Mcann 
 |NVIDIA DLI| Testiong on Wendian, needed to fix JupyterLab envs first, ready to try again. Give it shot on building it on DELTA.
 |GRANT: Eng. a Trajectory of Success| Susan Reynolds, reynolds@mines.edu see https://www.seeingstructures.org/ Meeting complete with Dan at CSU. Next up: meet with Shannon and Ethan at Mines. DONE! Meeting unproductive. Recieved initial model from Susan for test demo. Added cube in Blender. Added OmniVerse server and editing USD file. Need to respond with review of file and improvement notes.
+|Andy discussion at Markiiisys| Have a thing to push for money. Design a thing. Perhaps use Edgar Vis-lab. Veronica Allyson, ME explosive prof., And use it for education. Value model for safety.  
 ## Decisions
 ###Agreed upon actions to be taken.
 |Topic|Decision|
