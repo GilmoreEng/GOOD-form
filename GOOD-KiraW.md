@@ -7,13 +7,13 @@ Date: 10-17-2024
 |Expand SciViz offering, workshop, and awareness| Kira also email. Still draft propsoal description for CIO - draft and research of links for example to send. Found links to videos from too long ago. Fixed transcription for processing and legacy use. May try to dig deeper in to NRELs new paper on Power system viz.
 |OmniGlobe CoorsTek| Owner Physics DH: Frederic Sarazin. Email chain with vendor: Adam Wales, email: adam@elumenati.com. - Meeting with Adam at OmniGlobe - Short Notes (see email for complete notes): will try to standup a Lab Notebook for the Globe. Fixed broken lock, panel on base, blew out computer. Found swipe still enabled, and NASA data broken. Downloaded and installed license of WorldView the Content management software. Will get Unity Assest for content creation. Log data management, and oil and clean processes instruction. Set next meeting for Blend project alignment for Thursday and now reschedule for next week.
 |Website content| https://cu-boulder-crdds.github.io/LearningMaterials/PythonDataViz.html. 
-|Test Visualization Software Workflows for Collaboration| Need to reinstall with Entitlement and Enterprise version. Need code and architecture plan, code deployment, etc. Genaric email instructions recieved.
+|Test Visualization Software Workflows for Collaboration| Need to reinstall with Entitlement and Enterprise version. Need code and architecture plan, code deployment, etc. Followed up for NVIDIA enterprise account license portal access and opened ticket# 21971252. Downloaded latest Omniverse Nucleus for Linux. No version for windows, etc.
 |Ease-of-use access to HPC at Mines through improvements to Open Ondemand| Fix up JupyterLab Deployment, Document all changes in logs, copy code to github RC repo. Fix python envs in jupyterLab. Deploy MINES OOD apps at gibhub. Debugging Ruby code for YAML parsing of repeative code on MIO juypter app to start.
 |Fall Student Project | Github repo: https://github.com/TriHardStudios/F23_CSM_Gilmore. Need to integrate CS OOD Apps into new version.
 |Personal Development| "Unity Teaching BETA trainning:" Voucher recieved. Need to find the materials to review, and then schedule exam at Arvada RRCC testing center. Met Phishing training deadline.
-|Culture/Community| Fixed up dangling confluence pages, and review valid pages to port into sphinx. Brainstormed final documentation webpage home.
+|Culture/Community| Attended ME Food Truck and Music event
 |TDX/Service| Handled Nicks sick leave workload. Worked on tickets for polyrate, conda shared for UCAR research, and wendian access student from Sam Jo. Also, suggested ACCESS program to Juliette for more GPU.
-|On-prem Cluster| Check-in on Wendian node outage due to large jobs arrays not stopping when time limit is met. Alerted Mike. Also, caught Mio with a single node down for some reason.
+|On-prem Cluster| Tested Mike code for OOD new apps for agedu server interface, and debugged his code and workflow. Tested new OOD Active Job plugin for grahana CPU and Memory usage displaying job specific data to users. SSO isn't seemless, but functional with seperate login action.
 |Cloud/HPC IaaS| 
 |Admin Automation App|
 |Apps| Update OOD to new version of python module. Not pushed yet. Matlab 2024a rewrite html server app.
@@ -24,7 +24,6 @@ Date: 10-17-2024
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
 |---|
-|Covering Nick job isn't easy when I'm trying to take on a new project.
 ## Opportunities 
 |Discuss new opportunities for further learning, development, and growth.|Comments|
 |:---:|:---:|
