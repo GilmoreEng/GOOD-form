@@ -1,6 +1,14 @@
 # GOOD 1:1 Meeting 
 Name: Richard Gilmore & Kira Wells
-Date: 10-17-2024
+Date: 11-1-2024
+## 1st of NOVEMBER GOAL CHECK-IN
+|Goal Name|Long Description| Milestones |
+|:---:|:---:|:---:|
+|HPC solution for research|	Work with the HPC Steering Committee to develop and deploy an HPC solution that meets the research computing needs by Q4. Support efforts in creating data surveys and options matrices in Q1, and assist in conducting RFPs and vendor selection in Q3. Assist Cloud Application Testing when needed and make recommendations for hardware purchases or workflow planning for the application stack. By the end of Q4, evaluate ease-of-use on the chosen HPC solution is successfully deployed and applications are set up for researchers. |	Q2: No specific tasks mentioned, likely focusing on ongoing support and planning. <br/> * Supported creation and curation of Condo model data.
+|Expand SciViz offering, workshop, and awareness | Increase SciViz visibility on campus by meeting with 10 faculty members in Q1 to discuss needs, software, systems requirements, projects and training topics. Through these interviews create workshop material detailing a SciViz project workflow in Q2 to deliver in Q3. Curate 3 examples to publish as webpage content in Q4.| Q2: Create workshop content detailing SciViz workflow. <br/> * Expected meeting with Library orgainizer of Resarch Workshops in early December. <br/> * Develop vendor relation with ELUMENATI, and support and creation process for the OmniGlobe in CoorsTek.
+|Test Visualization Software Workflows for Collaboration | Deploy OmniVerse Dev instance with approved access controls and basic configuration by Q1, ensuring seamless integration with existing Research Computing infrastructure. Obtain approval from Mines in Q1. Complete deployment of OmniVerse Dev instance in Q1. Conduct a basic configuration test to ensure access controls are functional, data storage is allocated correctly, and visualization tools can be accessed remotely in Q2.  | Q1: Deploy OmniVerse Dev. instance Q2-Q3: Integration tests from various SciViz softwares, and data sources (CFD, Geophysics, Molecular Dynamics, and other HPC softwares, etc.) <br/>  * Server racked and ready to deploy OS,  Mines approval, License received, and software downloaded. <br/> * Use case under way with demos for faculty involved in the VECTOR visualiztion for OER creation project.
+| Ease-of-use access to HPC at Mines through improvements to Open Ondemand | Develop and deploy multiple scientific visualization applications. In Q1 build and deploy NORSAR for OOD. Q2, develop and deploy the Cloud Compare app for Geology, meeting their requested features and functionality. Q3, update Job Composer to include project templates with examples for Mio and Wendian, while also building and deploying the Job Reporting. |  Q2: New apps as requested by Geology: Cloud Compare. <br/> * Ready to test package manager instance of FLATPAK
+
 ## Goals/Projects/Items of Interest 
 |Topic|Update|
 |:---:|:---:|
