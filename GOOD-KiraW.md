@@ -9,7 +9,7 @@ Date: 11-15-2024
 |OmniGlobe CoorsTek| Will get Unity Asset for content creation. Resent request for ASSET Enabled RDP for access. Comfirmed on VLAN. Assest received!
 |Website content| https://cu-boulder-crdds.github.io/LearningMaterials/PythonDataViz.html. 
 |Test Visualization Software Workflows for Collaboration| Build server OS is next.
-|Ease-of-use access to HPC at Mines through improvements to Open Ondemand| Fix up JupyterLab Deployment, Document all changes in logs, copy code to github RC repo. Fix python envs in jupyterLab. Deploy MINES OOD apps at gibhub. Debugging Ruby code for YAML parsing of repeative code on MIO juypter app to start. Build MATLAB proxy-app complete. Swtichable to VNC connect in signal form in testing.
+|Ease-of-use access to HPC at Mines through improvements to Open Ondemand| Fix up JupyterLab Deployment, Document all changes in logs, copy code to github RC repo. Fix python envs in jupyterLab. Deploy MINES OOD apps at gibhub. Debugging Ruby code for YAML parsing of repeative code on MIO juypter app to start. Build MATLAB proxy-app complete and shared-conda-env with swtichable to VNC connect in one form submit form in testing.
 |Fall Student Project | Github repo: https://github.com/TriHardStudios/F23_CSM_Gilmore. Need to integrate CS OOD Apps into new version.
 |Personal Development| "Unity Teaching BETA trainning:" Voucher recieved. Need to find the materials to review, and then schedule exam at Arvada RRCC testing center. Complete Group Fitness Instructor (GFI). Need to study questions and get CPR certified.
 |Culture/Community| Attended "Securing Grants from Foundations" and need to discuss with Kira. 
