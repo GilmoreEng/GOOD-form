@@ -6,10 +6,10 @@ Date: 11-15-2024
 |Topic|Update|
 |:---:|:---:|
 |Expand SciViz offering, workshop, and awareness| Draft complete ready to review.
-|OmniGlobe CoorsTek| Will get Unity Asset for content creation. Resent request for ASSET Enabled RDP for access. Comfirmed on VLAN.
+|OmniGlobe CoorsTek| Will get Unity Asset for content creation. Resent request for ASSET Enabled RDP for access. Comfirmed on VLAN. Assest received!
 |Website content| https://cu-boulder-crdds.github.io/LearningMaterials/PythonDataViz.html. 
 |Test Visualization Software Workflows for Collaboration| Build server OS is next.
-|Ease-of-use access to HPC at Mines through improvements to Open Ondemand| Fix up JupyterLab Deployment, Document all changes in logs, copy code to github RC repo. Fix python envs in jupyterLab. Deploy MINES OOD apps at gibhub. Debugging Ruby code for YAML parsing of repeative code on MIO juypter app to start.
+|Ease-of-use access to HPC at Mines through improvements to Open Ondemand| Fix up JupyterLab Deployment, Document all changes in logs, copy code to github RC repo. Fix python envs in jupyterLab. Deploy MINES OOD apps at gibhub. Debugging Ruby code for YAML parsing of repeative code on MIO juypter app to start. Build MATLAB proxy-app complete. Swtichable to VNC connect in signal form in testing.
 |Fall Student Project | Github repo: https://github.com/TriHardStudios/F23_CSM_Gilmore. Need to integrate CS OOD Apps into new version.
 |Personal Development| "Unity Teaching BETA trainning:" Voucher recieved. Need to find the materials to review, and then schedule exam at Arvada RRCC testing center. Complete Group Fitness Instructor (GFI). Need to study questions and get CPR certified.
 |Culture/Community| Attended "Securing Grants from Foundations" and need to discuss with Kira. 
@@ -17,7 +17,7 @@ Date: 11-15-2024
 |On-prem Cluster| Rebuild all Mio Python envs, and tested sphinx. Looked into xmGRACE, and GnuPlot conda packages.
 |Cloud/HPC IaaS| 
 |Admin Automation App|
-|Apps| Update OOD to new version of python module. Not pushed yet. Matlab 2024a rewrite html server app.
+|Apps| Update OOD to new version of python module. Not pushed yet. Matlab 2024a rewrite html server app - Done!
 |Build CloudCompare| Flatpak inside a Rocky9 container fails due to bwrap (a container system). Doesn't want to work inside a container. container inside a container. Need to fix "Can't find xcb and display errors".
 |Vis&GUI| Look into v3.1 "my projects" which replaces "my templates".  Need test Mark III sys next notebooks and download datasets. Ready to release new version of JupyterLab and python 2024 as the base environment for OOD app.
 |Website| Website Docs out of date need to update after workshop. See above. Also update SciVis offering. WPFILES is out. rc.docs is hosted on github pages directly! update can occur at anytime.
@@ -36,6 +36,3 @@ Date: 11-15-2024
 ###Agreed upon actions to be taken.
 |Topic|Decision|
 |:---:|:---:|
-|Python session ideas|  
-|Data Center capacity|
-|Reachout to SupportDesk about ANSYS License| Contact Scott.
