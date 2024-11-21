@@ -37,3 +37,4 @@ Date: 11-15-2024
 |:---:|:---:|
 | Follow up Disciplinary Action Discussion | Attended Compendency series for Communication. What's next? Do you have sign copy of the form?
 | WEBSITE Timeline for Vis by end of year or ELSE! |
+| ^^^ GOAL this year states ^^^ | Increase SciViz visibility on campus by meeting with 10 faculty members in Q1 to discuss needs, software, systems requirements, projects and training topics. Through these interviews create workshop material detailing a SciViz project workflow in Q2 to deliver in Q3. Curate 3 examples to publish as webpage content in Q4. === timeline. 
