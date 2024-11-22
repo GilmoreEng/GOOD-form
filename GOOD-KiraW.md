@@ -5,7 +5,7 @@ Date: 11-15-2024
 ## Goals/Projects/Items of Interest 
 |Topic|Update|
 |:---:|:---:|
-|Expand SciViz offering, workshop, and awareness| Draft complete ready to review.
+|Expand SciViz offering, workshop, and awareness| Draft complete ready to review. Check in after all-hands thursday Dec.5th
 |OmniGlobe CoorsTek| Need to review content management system to maintain functional content on globe.
 |Website content| https://cu-boulder-crdds.github.io/LearningMaterials/PythonDataViz.html. 
 |Test Visualization Software Workflows for Collaboration| Build server OS is next.
@@ -35,6 +35,6 @@ Date: 11-15-2024
 ###Agreed upon actions to be taken.
 |Topic|Decision|
 |:---:|:---:|
-| Follow up Disciplinary Action Discussion | Attended Compendency series for Communication. What's next? Do you have sign copy of the form?
-| WEBSITE Timeline for Vis by end of year or ELSE! |
-| ^^^ GOAL this year states ^^^ | Increase SciViz visibility on campus by meeting with 10 faculty members in Q1 to discuss needs, software, systems requirements, projects and training topics. Through these interviews create workshop material detailing a SciViz project workflow in Q2 to deliver in Q3. Curate 3 examples to publish as webpage content in Q4. === timeline. 
+| Follow up Disciplinary Action Discussion | Attended Compendency series for Communication. What's next? Do you have sign copy of the form? [Link to sign sheet](./LOR_2024.10.31_Gilmore.pdf)
+| WEBSITE Timeline for Vis by end of year or ELSE! | Link to other websites on viz creation. See chat on Rock Density https://opentopography.org/ and https://hvplot.holoviz.org/ ACCELRATED TIME LINE: Dec 1w, csv to flat render; Dec 2w, render in paraview; Heading and two topics rc.docs
+|re-order rc.docs| Cloud up, Vis up.
