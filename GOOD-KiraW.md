@@ -17,7 +17,7 @@ Date: 11-15-2024
 |On-prem Cluster| Mio is still command-line only.
 |Cloud/HPC IaaS| 
 |Admin Automation App|
-|Apps| Update OOD to new version of python module. Not pushed yet. Finish clean up of Matlab and Jupyter app next.
+|Apps| Update OOD to new version of python module. Not pushed yet. Finish clean up of Matlab and Jupyter app next. Port AgeDU from wendian to Mio code base. Enabling users to see oldest data and reduce disk usage that's been over 91% for months.
 |Build CloudCompare| Flatpak inside a Rocky9 container fails due to bwrap (a container system). Doesn't want to work inside a container. container inside a container. Need to fix "Can't find xcb and display errors".
 |Vis&GUI| Look into v3.1 "my projects" which replaces "my templates".  Need test Mark III sys next notebooks and download datasets. Ready to release new version of JupyterLab and python 2024 as the base environment for OOD app.
 |Website| Research 3D open source datasets, research Desmos.com online graphing tool, matplotlib 3d graphing prime spiral.
@@ -35,5 +35,6 @@ Date: 11-15-2024
 ###Agreed upon actions to be taken.
 |Topic|Decision|
 |:---:|:---:|
-| WEBSITE Timeline for Vis by end of year or ELSE! | Link to other websites on viz creation. See chat on Rock Density https://opentopography.org/ and https://hvplot.holoviz.org/ ACCELRATED TIME LINE: Dec 1w, csv to flat render; Dec 2w, render in paraview; Heading and two topics rc.docs
+| WEBSITE Timeline for Vis by end of year or ELSE! | Link to other websites on viz creation. See chat on Rock Density https://opentopography.org/ and https://hvplot.holoviz.org/ ACCELRATED TIME LINE: Dec 1w, csv to flat render; Dec 2w, render in paraview; Heading and two topics rc.docs.
+|Cureate list useful tutorials on Data clean up tools, aka panads and holoviews, or Amazon Sagemaker. Need to be able to see dirty data to make judgement calls on clean up. Identify easy cleanup such as bad sensor data, static, and Not-a-Number. 
 |re-order rc.docs| Cloud up, Vis up.
