@@ -35,6 +35,6 @@ Date: 11-15-2024
 ###Agreed upon actions to be taken.
 |Topic|Decision|
 |:---:|:---:|
-| WEBSITE Timeline for Vis by end of year or ELSE! | Link to other websites on viz creation. See chat on Rock Density https://opentopography.org/ and https://hvplot.holoviz.org/ ACCELRATED TIME LINE: Dec 1w, csv to flat render; Dec 2w, render in paraview; Heading and two topics rc.docs.
-|Cureate list useful tutorials on Data clean up tools, aka panads and holoviews, or Amazon Sagemaker. Need to be able to see dirty data to make judgement calls on clean up. Identify easy cleanup such as bad sensor data, static, and Not-a-Number. 
+| WEBSITE Timeline for Vis by end of year or ELSE! | Link to other websites on viz creation. See chat on Rock Density https://opentopography.org/ and https://hvplot.holoviz.org/ ACCELRATED TIME LINE: Dec 1w, csv to flat render; Dec 2w, render in paraview; Heading and two topics rc.docs. 
+|Cureate list useful tutorials on Data clean up tools, aka panads and holoviews, or Amazon Sagemaker. Need to be able to see dirty data to make judgement calls on clean up. Identify easy cleanup such as bad sensor data, static, and Not-a-Number. https://pointclouds.org/ is C++ PCL library with tutorials. Also see: https://robotica.unileon.es/index.php?title=PCL/OpenNI_tutorial_2:_Cloud_processing_(basic) or ROS: https://wiki.ros.org/pcl/Tutorials
 |re-order rc.docs| Cloud up, Vis up.
