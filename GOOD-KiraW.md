@@ -5,7 +5,7 @@ Date: 12-13-2024
 ## Goals/Projects/Items of Interest 
 |Topic|Update|
 |:---:|:---:|
-|Expand SciViz offering, workshop, and awareness| Draft complete ready to review. Check in after all-hands thursday Dec.5th
+|Expand SciViz offering, workshop, and awareness| Pick dates for HPC Vis workshop at Library for Seth.
 |OmniGlobe CoorsTek| Need to review content management system to maintain functional content on globe.
 |Website content| https://cu-boulder-crdds.github.io/LearningMaterials/PythonDataViz.html. 
 |Test Visualization Software Workflows for Collaboration| Build server OS is next.
@@ -13,7 +13,7 @@ Date: 12-13-2024
 |Fall Student Project | Github repo: https://github.com/TriHardStudios/F23_CSM_Gilmore. Need to integrate CS OOD Apps into new version.
 |Personal Development| "Unity Teaching BETA trainning:" Voucher recieved. Need to find the materials to review, and then schedule exam at Arvada RRCC testing center. Complete Group Fitness Instructor (GFI). Need to study questions and get CPR certified.
 |Culture/Community|
-|TDX/Service| Met with Luis to resolve ansys issue. Met with Denis and his student to work through ParaView issues. Suggest alternative install process.
+|TDX/Service| Met with Luis to resolve ansys issue. Issue is reopened. Met with Denis and his student to work through ParaView issues. Suggest alternative install process.
 |On-prem Cluster| Mio is still command-line only.
 |Cloud/HPC IaaS| 
 |Admin Automation App|
