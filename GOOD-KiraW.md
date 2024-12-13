@@ -1,6 +1,6 @@
 # GOOD 1:1 Meeting 
 Name: Richard Gilmore & Kira Wells
-Date: 11-15-2024
+Date: 12-13-2024
 
 ## Goals/Projects/Items of Interest 
 |Topic|Update|
@@ -13,18 +13,19 @@ Date: 11-15-2024
 |Fall Student Project | Github repo: https://github.com/TriHardStudios/F23_CSM_Gilmore. Need to integrate CS OOD Apps into new version.
 |Personal Development| "Unity Teaching BETA trainning:" Voucher recieved. Need to find the materials to review, and then schedule exam at Arvada RRCC testing center. Complete Group Fitness Instructor (GFI). Need to study questions and get CPR certified.
 |Culture/Community|
-|TDX/Service| Met with Luis to resolve ansys issue. Respond to Denis about ParaView.
+|TDX/Service| Met with Luis to resolve ansys issue. Met with Denis and his student to work through ParaView issues. Suggest alternative install process.
 |On-prem Cluster| Mio is still command-line only.
 |Cloud/HPC IaaS| 
 |Admin Automation App|
 |Apps| Update OOD to new version of python module. Not pushed yet. Finish clean up of Matlab and Jupyter app next. Port AgeDU from wendian to Mio code base. Enabling users to see oldest data and reduce disk usage that's been over 91% for months.
 |Build CloudCompare| bypass container with user install. Build functional OOD app for Cloud Compare in container and install as user, then run on bare metal from user install. plan on Monday to discuss with Team about deployment.
 |Vis&GUI| Look into v3.1 "my projects" which replaces "my templates".  Need test Mark III sys next notebooks and download datasets. Ready to release new version of JupyterLab and python 2024 as the base environment for OOD app.
-|Website| Port over Paraview access, ansys remote vis, jupyter, and VNC connect tutorials for access on HPC at Mines to read-the-docs website. 
+|Website| Port over Paraview access, ansys remote vis, jupyter, and VNC connect tutorials for access on HPC at Mines to read-the-docs website. Need to review and push to website and change WP site to new links. 
 |BIZ model discussion|
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
 |---|
+|Over come BSOD | upgrade BIOS and troubleshoot boot issues
 ## Opportunities 
 |Discuss new opportunities for further learning, development, and growth.|Comments|
 |:---:|:---:|
