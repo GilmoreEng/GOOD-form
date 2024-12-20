@@ -13,13 +13,13 @@ Date: 12-13-2024
 |Fall Student Project | Github repo: https://github.com/TriHardStudios/F23_CSM_Gilmore. Need to integrate CS OOD Apps into new version.
 |Personal Development| "Unity Teaching BETA trainning:" Voucher recieved. Need to find the materials to review, and then schedule exam at Arvada RRCC testing center. Complete Group Fitness Instructor (GFI). Need to study questions and get CPR certified.
 |Culture/Community|
-|TDX/Service| Testing of ParaView server setups and job templates for easy launch in OOD. build paraview reader macro, and ask for better method to test.
+|TDX/Service| Testing of ParaView server setups and job templates for easy launch in OOD. build paraview reader macro, and ask for better method to test. Checked in with Luis. Jupyter Lab launch issue and full-queue on Wendian.
 |On-prem Cluster| Mio is still command-line only.
 |Cloud/HPC IaaS| 
 |Admin Automation App|
 |Apps| Update OOD to new version of python module. Not pushed yet. Finish clean up of Matlab and Jupyter app next. Port AgeDU from wendian to Mio code base. Enabling users to see oldest data and reduce disk usage that's been over 91% for months. Started testing.
 |Build CloudCompare| Discuss with Team about deployment method with Flatpak.
-|Vis&GUI| Look into v3.1 "my projects" which replaces "my templates".  Need test Mark III sys next notebooks and download datasets. Ready to release new version of JupyterLab and python 2024 as the base environment for OOD app.
+|Vis&GUI| Look into v3.1 "my projects" which replaces "my templates".  Need test Mark III sys next notebooks and download datasets. Ready to release new version of JupyterLab and python 2024 as the base environment for OOD app. Worked with Mike to build server OS and install Omniverse Nucleus server.
 |Website| Completed publication of website pages and added prime 2d plots.
 |BIZ model discussion|
 ## Obstacles
@@ -29,7 +29,7 @@ Date: 12-13-2024
 |Discuss new opportunities for further learning, development, and growth.|Comments|
 |:---:|:---:|
 |NVIDIA DLI| Testing on Wendian, needed to fix JupyterLab envs first, ready to try again. Give it shot on building it on DELTA.~
-|GRANT: Eng. a Trajectory of Success| Group workshop meeting on Jan 9-10 at Golden hotel.  
+|GRANT: Eng. a Trajectory of Success| Group workshop meeting on Jan 9-10 at Golden hotel. 
 ## Decisions
 ###Agreed upon actions to be taken.
 |Topic|Decision|
