@@ -1,25 +1,25 @@
 # GOOD 1:1 Meeting 
 Name: Richard Gilmore & Kira Wells
-Date: 12-13-2024
+Date: 1-9-2025
 
 ## Goals/Projects/Items of Interest 
 |Topic|Update|
 |:---:|:---:|
-|Expand SciViz offering, workshop, and awareness| Pick dates for HPC Vis workshop at Library for Seth. Email sent.
+|Expand SciViz offering, workshop, and awareness| Library "Data Visualization" workshop session scheduled for March 5th.
 |OmniGlobe CoorsTek| Need to review content management system to maintain functional content on globe.
 |Website content| https://cu-boulder-crdds.github.io/LearningMaterials/PythonDataViz.html. 
-|Test Visualization Software Workflows for Collaboration| Build server OS is next. Scheduled for Thursday morning.
+|Test Visualization Software Workflows for Collaboration| Test omniverse nucleus-dev.mines.edu data management and connection complete! SSL certificate installed. Username and password management currently is a manual process.
 |Ease-of-use access to HPC at Mines through improvements to Open Ondemand| Fix up JupyterLab Deployment, Document all changes in logs, copy code to github RC repo. Fix python envs in jupyterLab. Deploy MINES OOD apps at gibhub. Debugging Ruby code for YAML parsing of repeative code on MIO juypter app to start. Functional VNC and matlab-proxy need to cleanup code. Fix AGEDU app with auth button launch. !! Order a list of application updates for importants and put it the calendar!!
 |Fall Student Project | Github repo: https://github.com/TriHardStudios/F23_CSM_Gilmore. Need to integrate CS OOD Apps into new version.
 |Personal Development| "Unity Teaching BETA trainning:" Voucher recieved. Need to find the materials to review, and then schedule exam at Arvada RRCC testing center. Complete Group Fitness Instructor (GFI). Need to study questions and get CPR certified.
 |Culture/Community|
-|TDX/Service| Testing of ParaView server setups and job templates for easy launch in OOD. build paraview reader macro, and ask for better method to test. Checked in with Luis. Jupyter Lab launch issue and full-queue on Wendian.
+|TDX/Service| Testing of ParaView server setups and job templates for easy launch in OOD. build paraview reader macro, and ask for better method to test. Checked in with Luis. Jupyter Lab launch issue and full-queue on Wendian. Diagnose Jupyter lab launch by Josh with no clear reason why server stalls. Installed VMD binary for Swarup Banerjee.
 |On-prem Cluster| Mio is still command-line only.
 |Cloud/HPC IaaS| 
 |Admin Automation App|
-|Apps| Update OOD to new version of python module. Not pushed yet. Finish clean up of Matlab and Jupyter app next. Port AgeDU from wendian to Mio code base. Enabling users to see oldest data and reduce disk usage that's been over 91% for months. Started testing.
-|Build CloudCompare| Discuss with Team about deployment method with Flatpak.
-|Vis&GUI| Look into v3.1 "my projects" which replaces "my templates".  Need test Mark III sys next notebooks and download datasets. Ready to release new version of JupyterLab and python 2024 as the base environment for OOD app. Worked with Mike to build server OS and install Omniverse Nucleus server.
+|Apps| Fix VMD launch code to use "xfce4-terminal --command=`which vmd`" and removed #--sm-client-disable flag to recover windowing controls for user interface. Need to correct this behavior in other apps.
+|Build CloudCompare| Discuss with Team about deployment method with Flatpak -- 1/3/2025. Nick will attempt to build from source. Flatpak is a bit like conda, and can balloon user home directories. Further discussion on 20GB limit to come.
+|Vis&GUI| Look into v3.1 "my projects" which replaces "my templates".  Need test Mark III sys next notebooks and download datasets. Ready to release new version of JupyterLab and python 2024 as the base environment for OOD app.
 |Website| Completed publication of website pages and added prime 2d plots.
 |BIZ model discussion|
 ## Obstacles
