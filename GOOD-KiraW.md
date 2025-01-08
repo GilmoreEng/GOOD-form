@@ -17,7 +17,7 @@ Date: 1-9-2025
 |On-prem Cluster| Mio is still command-line only.
 |Cloud/HPC IaaS| 
 |Admin Automation App|
-|Apps| Fix VMD launch code to use "xfce4-terminal --command=`which vmd`" and removed #--sm-client-disable flag to recover windowing controls for user interface. Need to correct this behavior in other apps.
+|Apps| Fix VMD launch code to use "xfce4-terminal --command=`which vmd`" and removed #--sm-client-disable flag to recover windowing controls for user interface. Need to correct this behavior in other apps. Draft RFC document. 
 |Build CloudCompare| Discuss with Team about deployment method with Flatpak -- 1/3/2025. Nick will attempt to build from source. Flatpak is a bit like conda, and can balloon user home directories. Further discussion on 20GB limit to come.
 |Vis&GUI| Look into v3.1 "my projects" which replaces "my templates".  Need test Mark III sys next notebooks and download datasets. Ready to release new version of JupyterLab and python 2024 as the base environment for OOD app.
 |Website| Completed publication of website pages and added prime 2d plots.
@@ -25,6 +25,7 @@ Date: 1-9-2025
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
 |---|
+|copying Z drive files to OneDrive| ticket open, ticket passed to 365 support. No response. Day spent figuring out appropriate tool native to Windows. Verification of copied data and resolution of conflits.
 ## Opportunities 
 |Discuss new opportunities for further learning, development, and growth.|Comments|
 |:---:|:---:|
