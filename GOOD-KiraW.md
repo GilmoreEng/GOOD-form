@@ -30,9 +30,11 @@ Date: 1-9-2025
 |Discuss new opportunities for further learning, development, and growth.|Comments|
 |:---:|:---:|
 |NVIDIA DLI| Testing on Wendian, needed to fix JupyterLab envs first, ready to try again. Give it shot on building it on DELTA.~
-|GRANT: Eng. a Trajectory of Success| Group workshop meeting on Jan 9-10 at Golden hotel. 
+|GRANT: Eng. a Trajectory of Success| Group workshop meeting on Jan 9-10 at Golden hotel.
+|CloudCompare workshop idea| Talk to Gabe Walton, workshop by vender then a followup. Drone data etc. 
 ## Decisions
 ###Agreed upon actions to be taken.
 |Topic|Decision|
 |:---:|:---:|
 |Cureate list useful tutorials | Data clean up tools, aka panads and holoviews, or Amazon Sagemaker. Need to be able to see dirty data to make judgement calls on clean up. Identify easy cleanup such as bad sensor data, static, and Not-a-Number. https://pointclouds.org/ is C++ PCL library with tutorials. Also see: https://robotica.unileon.es/index.php?title=PCL/OpenNI_tutorial_2:_Cloud_processing_(basic) or ROS: https://wiki.ros.org/pcl/Tutorials. 
+|Luis GCP email| clarify invitation email
