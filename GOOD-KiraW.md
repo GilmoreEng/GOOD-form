@@ -24,16 +24,16 @@ Date: 1-16-2025
 |Test Visualization Software Workflows for Collaboration| Test omniverse nucleus-dev.mines.edu data management and connection complete! SSL certificate installed. Username and password management currently is a manual process. Tested Unity plugin to LIVE connection started from Omniverse SKD Kit, and USD composer app. MACOS fails to be useful and can't run connectors in unity. Unity 6 is export and import only. 2023 Unity has Live Beta working. Recorded video of 2023.
 |Ease-of-use access to HPC at Mines through improvements to Open Ondemand| Fix up JupyterLab Deployment, Document all changes in logs, copy code to github RC repo. Fix python envs in jupyterLab. Deploy MINES OOD apps at gibhub. Debugging Ruby code for YAML parsing of repeative code on MIO juypter app to start. Functional VNC and matlab-proxy need to cleanup code. Fixed AGEDU app. Put in RFC for change after meeting with Team to review each change.
 |Fall Student Project | Github repo: https://github.com/TriHardStudios/F23_CSM_Gilmore. Need to integrate CS OOD Apps into new version.
-|Personal Development| "Unity Teaching BETA trainning:" Voucher recieved. Need to find the materials to review, and then schedule exam at Arvada RRCC testing center. Complete Group Fitness Instructor (GFI). Need to study questions and get CPR certified.
+|Personal Development| "Unity Teaching BETA trainning:" Voucher recieved. Need to find the materials to review, and then schedule exam at Arvada RRCC testing center. Complete Group Fitness Instructor (GFI). Need to study questions and get CPR certified (rechecked nothing available yet).
 |Culture/Community|
-|TDX/Service| Testing of ParaView server setups and job templates for easy launch in OOD. build paraview reader macro, and ask for better method to test. Jupyter Lab launch issue was from Josh saturating network and slowing down /sw stalling Jupyter server startup. Installed VMD binary for Swarup Banerjee. Emailed Luis about GCP pilot.
+|TDX/Service| Discussed Mio access for Luis, and approved it.
 |On-prem Cluster| Mio is still command-line only.
 |Cloud/HPC IaaS| 
 |Admin Automation App|
-|Apps| Fix VMD launch code to use "xfce4-terminal --command=`which vmd`" and removed #--sm-client-disable flag to recover windowing controls for user interface. Need to correct this behavior in other apps. Sent RFC.
+|Apps| Fix VMD launch code to use "xfce4-terminal --command=`which vmd`" and removed #--sm-client-disable flag to recover windowing controls for user interface. Need to correct this behavior in other apps.RFC approved for next week.
 |Build CloudCompare| Discuss with Team about deployment method with Flatpak -- 1/3/2025. Nick will attempt to build from source. Flatpak is a bit like conda, and can balloon user home directories. Further discussion on 20GB limit to come.
 |Vis&GUI| Look into v3.1 "my projects" which replaces "my templates".  Need test Mark III sys next notebooks and download datasets. Ready to release new version of JupyterLab and python 2024 as the base environment for OOD app.
-|Website| Completed publication of website pages and added prime 2d plots.
+|Website| Created new documentation for Cloud Compare and AgeDU. Added links on policy page.
 |BIZ model discussion|
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
