@@ -30,8 +30,8 @@ Date: 1-16-2025
 |On-prem Cluster| Mio is still command-line only.
 |Cloud/HPC IaaS| 
 |Admin Automation App|
-|Apps| Fix VMD launch code to use "xfce4-terminal --command=`which vmd`" and removed #--sm-client-disable flag to recover windowing controls for user interface. Need to correct this behavior in other apps.RFC approved for next week.
-|Build CloudCompare| Discuss with Team about deployment method with Flatpak -- 1/3/2025. Nick will attempt to build from source. Flatpak is a bit like conda, and can balloon user home directories. Further discussion on 20GB limit to come.
+|Apps| Fix VMD launch code to use "xfce4-terminal --command=`which vmd`" and removed #--sm-client-disable flag to recover windowing controls for user interface. Need to correct this behavior in other apps.RFC approved for next week. <- last step to prepare for RFC.
+|Build CloudCompare| Built qt5 5.15 branch, and built cloudcompare. Installed module file. updated RFC doc with notes.
 |Vis&GUI| Look into v3.1 "my projects" which replaces "my templates".  Need test Mark III sys next notebooks and download datasets. Ready to release new version of JupyterLab and python 2024 as the base environment for OOD app.
 |Website| Created new documentation for Cloud Compare and AgeDU. Added links on policy page.
 |BIZ model discussion|
@@ -43,7 +43,7 @@ Date: 1-16-2025
 |Discuss new opportunities for further learning, development, and growth.|Comments|
 |:---:|:---:|
 |NVIDIA DLI| Testing on Wendian, needed to fix JupyterLab envs first, ready to try again. Give it shot on building it on DELTA.~
-|GRANT: Eng. a Trajectory of Success| Group workshop meeting on Jan 9-10 at Golden hotel.
+|GRANT: Eng. a Trajectory of Success| VECTOR launch successful. Emailed new Omniverse contact at Mines. 
 |CloudCompare workshop idea| Talk to Gabe Walton, workshop by vender then a followup. Drone data etc. 
 ## Decisions
 ###Agreed upon actions to be taken.
