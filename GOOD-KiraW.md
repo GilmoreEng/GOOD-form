@@ -32,7 +32,7 @@ Date: 1-16-2025
 |Admin Automation App|
 |Apps| Need to correct this behavior in other apps.RFC approved for next week. <- last step to prepare for RFC.
 |Vis&GUI| Look into v3.1 "my projects" which replaces "my templates".  Need test Mark III sys next notebooks and download datasets. Ready to release new version of JupyterLab and python 2024 as the base environment for OOD app.
-|Website| Review content with team before RFC implementation on Thursday. Need to rewrite Ansys job submission webpage. Need to port over Data Management pages from WP.
+|Website| Review content with team before RFC implementation on Thursday. Need to rewrite Ansys job submission webpage. Need to port over Data Management pages from WP. CODE BLOCKS for scripts copy with /r/n not UNIX /n and don't work as job submission scripts.
 |BIZ model discussion|
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
