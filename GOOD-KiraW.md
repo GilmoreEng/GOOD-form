@@ -1,6 +1,19 @@
 # GOOD 1:1 Meeting 
 Name: Richard Gilmore & Kira Wells
-Date: 1-9-2025
+Date: 1-16-2025
+
+## January MID year GOAL Review
+|Goal Name | Long Description | Milestones|*RATING*|
+|:---:|:---:|:---:|:---:|
+|HPC solution for research|Work with the HPC Steering Committee to develop and deploy an HPC solution that meets the research computing needs by Q4. Support efforts in creating data surveys and options matrices in Q1, and assist in conducting RFPs and vendor selection in Q3. Assist Cloud Application Testing when needed and make recommendations for hardware purchases or workflow planning for the application stack. By the end of Q4, evaluate ease-of-use on the chosen HPC solution is successfully deployed and applications are set up for researchers.|Q3: Assist in conducting RFPs and vendor selection for the HPC solution; Make recommendations for hardware purchases or workflow planning for the application stack *COMMENTS*: **ON-TRACK** Completed testing of Jetstream2 using a Windows instance to run ANSYS with license server VPN connection to campus. Prepare ANSYS testing for GCP launch. | **Meets Expectation** |
+|Expand SciViz offering, workshop, and awareness|Increase SciViz visibility on campus by meeting with 10 faculty members in Q1 to discuss needs, software, systems requirements, projects and training topics. Through these interviews create workshop material detailing a SciViz project workflow in Q2 to deliver in Q3. Curate 3 examples to publish as webpage content in Q4.|Q3: Teach workshop and publish webpage content *COMMENTS*: **ON-TRACK** Ported Website content from WP site to new read.docs site. Added new 2d-plotting page. Set date for Scivis workshop. Adopted support for OmniGlobe and CMS. | *Meets Expectation* |
+|Test Visualization Software Workflows for Collaboration|Deploy OmniVerse Dev instance with approved access controls and basic configuration by Q1, ensuring seamless integration with existing Research Computing infrastructure. Obtain approval from Mines in Q1. Complete deployment of OmniVerse Dev instance in Q1. Conduct a basic configuration test to ensure access controls are functional, data storage is allocated correctly, and visualization tools can be accessed remotely in Q2.|Q1: Deploy OmniVerse Dev. instance Q2-Q3: Integration tests from various SciViz softwares, and data sources (CFD, Geophysics, Molecular Dynamics, and other HPC softwares, etc.) *COMMENTS*: **ON-TRACK** Omniverse dev server running and tested with Unity and Blender connectors to USD Composer and Omniverse Kit app. Serving as IT contact along with Robin for Susan Reynolds grant: VECTOR to facilate collaboration between 10+ colleges on visualizations. Initated new contact with Dr. Yangming Shi an Assistant Professor in Civil & Environmental Engineering using USD for mechatronics. |  *Meets Expectation* |
+|Ease-of-use access to HPC at Mines through improvements to Open Ondemand|Develop and deploy multiple scientific visualization applications. In Q1 build and deploy NORSAR for OOD. Q2, develop and deploy the Cloud Compare app for Geology, meeting their requested features and functionality. Q3, update Job Composer to include project templates with examples for Mio and Wendian, while also building and deploying the Job Reporting.|Q2: New apps as requested by Geology: Cloud Compare.Q3: Job Composer update to Project Templates with examples for Mio and Wendian. Build Job Reporting APP. *COMMENTS*: **ON-TRACK**  New applcations tested include: upgraded VMD, Cloud Compare, agedu, matlab-proxy-app and ready for deployment after CAB meeting. | *Meets Expectation* |
+|PD GOAL SEE BELOW|||
+|Leadership||| *Meets Expectation* |
+|Management - Administration||| *Meets Expectation* |
+|Communications - Interpersonal Relations (Dept. staff, Teams, Campus Constituencies, Externals)||| *Needs improvement* |
+|DI&A:||| 
 
 ## Goals/Projects/Items of Interest 
 |Topic|Update|
@@ -11,16 +24,16 @@ Date: 1-9-2025
 |Test Visualization Software Workflows for Collaboration| Test omniverse nucleus-dev.mines.edu data management and connection complete! SSL certificate installed. Username and password management currently is a manual process. Tested Unity plugin to LIVE connection started from Omniverse SKD Kit, and USD composer app. MACOS fails to be useful and can't run connectors in unity. Unity 6 is export and import only. 2023 Unity has Live Beta working. Recorded video of 2023.
 |Ease-of-use access to HPC at Mines through improvements to Open Ondemand| Fix up JupyterLab Deployment, Document all changes in logs, copy code to github RC repo. Fix python envs in jupyterLab. Deploy MINES OOD apps at gibhub. Debugging Ruby code for YAML parsing of repeative code on MIO juypter app to start. Functional VNC and matlab-proxy need to cleanup code. Fixed AGEDU app. Put in RFC for change after meeting with Team to review each change.
 |Fall Student Project | Github repo: https://github.com/TriHardStudios/F23_CSM_Gilmore. Need to integrate CS OOD Apps into new version.
-|Personal Development| "Unity Teaching BETA trainning:" Voucher recieved. Need to find the materials to review, and then schedule exam at Arvada RRCC testing center. Complete Group Fitness Instructor (GFI). Need to study questions and get CPR certified.
+|Personal Development| "Unity Teaching BETA trainning:" Voucher recieved. Need to find the materials to review, and then schedule exam at Arvada RRCC testing center. Complete Group Fitness Instructor (GFI). Need to study questions and get CPR certified (rechecked nothing available yet).
 |Culture/Community|
-|TDX/Service| Testing of ParaView server setups and job templates for easy launch in OOD. build paraview reader macro, and ask for better method to test. Jupyter Lab launch issue was from Josh saturating network and slowing down /sw stalling Jupyter server startup. Installed VMD binary for Swarup Banerjee. Emailed Luis about GCP pilot.
+|TDX/Service| Discussed Mio access for Luis, and approved it.
 |On-prem Cluster| Mio is still command-line only.
 |Cloud/HPC IaaS| 
 |Admin Automation App|
-|Apps| Fix VMD launch code to use "xfce4-terminal --command=`which vmd`" and removed #--sm-client-disable flag to recover windowing controls for user interface. Need to correct this behavior in other apps. Sent RFC.
-|Build CloudCompare| Discuss with Team about deployment method with Flatpak -- 1/3/2025. Nick will attempt to build from source. Flatpak is a bit like conda, and can balloon user home directories. Further discussion on 20GB limit to come.
+|Apps| Fix VMD launch code to use "xfce4-terminal --command=`which vmd`" and removed #--sm-client-disable flag to recover windowing controls for user interface. Need to correct this behavior in other apps.RFC approved for next week. <- last step to prepare for RFC.
+|Build CloudCompare| Built qt5 5.15 branch, and built cloudcompare. Installed module file. updated RFC doc with notes.
 |Vis&GUI| Look into v3.1 "my projects" which replaces "my templates".  Need test Mark III sys next notebooks and download datasets. Ready to release new version of JupyterLab and python 2024 as the base environment for OOD app.
-|Website| Completed publication of website pages and added prime 2d plots.
+|Website| Created new documentation for Cloud Compare and AgeDU. Added links on policy page.
 |BIZ model discussion|
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
@@ -30,7 +43,7 @@ Date: 1-9-2025
 |Discuss new opportunities for further learning, development, and growth.|Comments|
 |:---:|:---:|
 |NVIDIA DLI| Testing on Wendian, needed to fix JupyterLab envs first, ready to try again. Give it shot on building it on DELTA.~
-|GRANT: Eng. a Trajectory of Success| Group workshop meeting on Jan 9-10 at Golden hotel.
+|GRANT: Eng. a Trajectory of Success| VECTOR launch successful. Emailed new Omniverse contact at Mines. 
 |CloudCompare workshop idea| Talk to Gabe Walton, workshop by vender then a followup. Drone data etc. 
 ## Decisions
 ###Agreed upon actions to be taken.
