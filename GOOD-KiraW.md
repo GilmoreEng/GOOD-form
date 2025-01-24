@@ -22,27 +22,29 @@ Date: 1-16-2025
 |OmniGlobe CoorsTek| Need to review content management system to maintain functional content on globe.
 |Website content| https://cu-boulder-crdds.github.io/LearningMaterials/PythonDataViz.html. 
 |Test Visualization Software Workflows for Collaboration| TDX: 22248718 for adding Nucleus server to SSO.
-|Ease-of-use access to HPC at Mines through improvements to Open Ondemand| Fix up JupyterLab Deployment, Document all changes in logs, copy code to github RC repo. Fix python envs in jupyterLab. Deploy MINES OOD apps at gibhub. Debugging Ruby code for YAML parsing of repeative code on MIO juypter app to start.
+|Ease-of-use access to HPC at Mines through improvements to Open Ondemand| Fix up JupyterLab Deployment, Document all changes in logs, copy code to github RC repo. Fix python envs in jupyterLab. Deploy MINES OOD apps at github. Debugging Ruby code for YAML parsing of repeative code on MIO juypter app to start. 
 |Fall Student Project | Github repo: https://github.com/TriHardStudios/F23_CSM_Gilmore. Need to integrate CS OOD Apps into new version.
 |Personal Development| "Unity Teaching BETA trainning:" Voucher recieved. Need to find the materials to review, and then schedule exam at Arvada RRCC testing center. Complete Group Fitness Instructor (GFI). Need to study questions and get CPR certified (rechecked nothing available yet).
 |Culture/Community|
-|TDX/Service| Discussed Mio access for Luis, and approved it.
+|TDX/Service| Meet with luis to work through CFD-post workflow, and extend job for check-point testings.
 |On-prem Cluster| Mio is still command-line only.
-|Cloud/HPC IaaS| Meet with Luis to discuss Ansys scaling and Mio job submission.
+|Cloud/HPC IaaS| Met with Volker at GCP to work through gcloud, HPC toolkit, etc. deloyment. Met with researcher to use QuantumEspresso code on GCP.
 |Admin Automation App|
-|Apps| Need to correct this behavior in other apps.RFC approved for next week. <- last step to prepare for RFC.
+|Apps| Execute OOD RFC to deploy Agedu, cloudcompare, matlab-proxy-app, and X11 windowing fix. Build matlab-proxy-app conda env on Mio and re-write OOD code to use module system. Failed to get AGEDU on mio working and pulled code. Email users Friday morning with Nick and update internal documentation.
 |Vis&GUI| Look into v3.1 "my projects" which replaces "my templates".  Need test Mark III sys next notebooks and download datasets. Ready to release new version of JupyterLab and python 2024 as the base environment for OOD app.
 |Website| Review content with team before RFC implementation on Thursday. Need to rewrite Ansys job submission webpage. Need to port over Data Management pages from WP. CODE BLOCKS for scripts copy with /r/n not UNIX /n and don't work as job submission scripts.
 |BIZ model discussion|
 ## Obstacles
 |Identify roadblocks in the way of goal/project completion and overall employee success.|
 |---|
+|Can't Email user documentation out of date| Held completing RFC. Meeting with Nick to work through the process.
 ## Opportunities 
 |Discuss new opportunities for further learning, development, and growth.|Comments|
 |:---:|:---:|
 |NVIDIA DLI| Testing on Wendian, needed to fix JupyterLab envs first, ready to try again. Give it shot on building it on DELTA.~
 |GRANT: Eng. a Trajectory of Success| VECTOR launch successful. Emailed new Omniverse contact at Mines. 
 |CloudCompare workshop idea| Talk to Gabe Walton, workshop by vender then a followup. Drone data etc. 
+|Emailed Yangming Shi| checking with grad student on status of their server.
 ## Decisions
 ###Agreed upon actions to be taken.
 |Topic|Decision|
